@@ -6,6 +6,8 @@ A spring boot enabled hello world application
 
 [![Coverage Status](https://coveralls.io/repos/gazgeek/springboot-helloworld/badge.svg)](https://coveralls.io/r/gazgeek/springboot-helloworld)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/261472330eb84ce8b43607fef1a77fda)](https://www.codacy.com/manual/s422346963/springboot-helloworld?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=s422346963/springboot-helloworld&amp;utm_campaign=Badge_Grade)
+
 - Travis CI build and test
 - Continuous deployment to Heroku on success
 
